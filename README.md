@@ -9,7 +9,7 @@ Todos os problemas resolvidos estão organizados em um único arquivo Java, estr
 ```
 Euler/
 ├── src/
-│   └── Solutions.java
+│   └── Questions.java
 └── README.md
 ```
 
