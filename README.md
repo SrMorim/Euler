@@ -1,4 +1,4 @@
-# Projeto Euler - Soluções em Java
+# Euler - Soluções em Java
 
 Este repositório contém minhas soluções desenvolvidas em Java para os desafios do [Projeto Euler](https://projecteuler.net/), uma coleção de desafios matemáticos e computacionais projetados para estimular o pensamento lógico e a resolução eficiente de problemas.
 
@@ -7,7 +7,7 @@ Este repositório contém minhas soluções desenvolvidas em Java para os desafi
 Todos os problemas resolvidos estão organizados em um único arquivo Java, estruturado por meio de funções individuais. Cada função corresponde ao ID de um desafio específico. Para executar um problema, basta chamar o método associado ao ID do desafio dentro da classe principal (main), por exemplo: `solution.id1()`.
 
 ```
-projeto-euler-java/
+Euler/
 ├── src/
 │   └── Solutions.java
 └── README.md
@@ -27,7 +27,7 @@ _Obs: A tabela será atualizada à medida que novos problemas forem solucionados
 
 ## Contribuição
 
-Se você tiver sugestões de melhorias nas soluções, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/projeto-euler-java/issues) ou um [pull request](https://github.com/seu-usuario/projeto-euler-java/pulls).
+Se você tiver sugestões de melhorias nas soluções, sinta-se à vontade para abrir uma [issue](https://github.com/SrMorim/Euler/issues) ou um [pull request](https://github.com/SrMorim/Euler/pulls).
 
 ## Licença
 
