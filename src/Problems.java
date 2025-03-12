@@ -1,4 +1,4 @@
-public class Questions {
+public class Problems {
     static class Solution {
         // 5%
         static void id1() {
@@ -47,7 +47,36 @@ public class Questions {
             }
 
             System.out.println("Result: " + sum); // Exibe a soma dos pares
+        }
+
+        static void id6() {
+            double r2 = 0;
+            for (int i = 0; i < 101 ; i++) {
+                double calc = Math.pow(i, 2);
+                r2 += calc;
             }
+
+            double r3 = 0;
+            for (int i = 0; i < 101; i++) {
+                double calc = i;
+                r3 += calc;
+            }
+
+            double convert = Math.pow(r3, 2);
+      
+            System.out.println("ex1: " + r2);
+            System.out.println("ex2: " + convert);
+
+            System.out.printf("final: %.0f %n", (convert - r2) );
+        }
+
+
+
+
+
+
+
+
         // 10%
     }  
 
